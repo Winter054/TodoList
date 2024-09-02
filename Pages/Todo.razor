@@ -1,0 +1,17 @@
+@page "/todo"
+@* @using TodoList.Models
+@using TodoList.Services
+@inject TodoService TodoService *@
+
+<h3>Todo List</h3>
+
+@* @code {
+    private List<TodoItem> todoItems = new List<TodoItem>();
+    private TodoItem newTodo = new TodoItem();
+
+    protected override void OnInitialized()
+    {
+        // Load the list of to-dos from the service
+        todoItems = TodoService.GetTodoItems();
+    }
+} *@
