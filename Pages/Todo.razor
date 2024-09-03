@@ -1,17 +1,13 @@
 @page "/todo"
-@* @using TodoList.Models
-@using TodoList.Services
-@inject TodoService TodoService *@
 
-<h3>Todo List</h3>
+@inject TodoList.Services.TodoService TodoService
 
-@* @code {
-    private List<TodoItem> todoItems = new List<TodoItem>();
-    private TodoItem newTodo = new TodoItem();
+<PageTitle>To-Do List</PageTitle>
 
-    protected override void OnInitialized()
-    {
-        // Load the list of to-dos from the service
-        todoItems = TodoService.GetTodoItems();
-    }
-} *@
+<h1>To-Do List</h1>
+
+<div class="card mx-3 my-3">
+    <div class="card-body">
+        <h5 class="card-title">Add new to-do item</h5>
+    </div>
+</div>

@@ -1,9 +1,3 @@
-/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.csproj.AssemblyReference.cache
-/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.GeneratedMSBuildEditorConfig.editorconfig
-/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.AssemblyInfoInputs.cache
-/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.AssemblyInfo.cs
-/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.csproj.CoreCompileInputs.cache
-/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.MvcApplicationPartsAssemblyInfo.cache
 /Users/winter/Code Projects/TodoList/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json
 /Users/winter/Code Projects/TodoList/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js
 /Users/winter/Code Projects/TodoList/bin/Debug/net8.0/wwwroot/_framework/dotnet.js
@@ -615,6 +609,12 @@
 /Users/winter/Code Projects/TodoList/bin/Debug/net8.0/icudt_CJK.dat
 /Users/winter/Code Projects/TodoList/bin/Debug/net8.0/icudt_EFIGS.dat
 /Users/winter/Code Projects/TodoList/bin/Debug/net8.0/icudt_no_CJK.dat
+/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.csproj.AssemblyReference.cache
+/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.AssemblyInfoInputs.cache
+/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.AssemblyInfo.cs
+/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.csproj.CoreCompileInputs.cache
+/Users/winter/Code Projects/TodoList/obj/Debug/net8.0/TodoList.MvcApplicationPartsAssemblyInfo.cache
 /Users/winter/Code Projects/TodoList/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Authorization.wasm
 /Users/winter/Code Projects/TodoList/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.wasm
 /Users/winter/Code Projects/TodoList/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.Forms.wasm
